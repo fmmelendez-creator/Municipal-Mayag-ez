@@ -1,0 +1,27 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_709CB983_5E16_1058_41C4_902A783D2593.label = 1_ fachada
+panorama_752C06AD_5E16_71A8_41D4_0248FF592B7F.label = 2_ entrada
+panorama_752C1FCF_5E16_6FE8_41C1_93D5A1FF0E92.label = 3_ salón
+
+## Skin
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_en.jpg
+
+### Label
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = Biblioteca Arturo Alfonso Schomburg
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = Municipal - Mayagüez
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Biblioteca Municipal Mayagüez
